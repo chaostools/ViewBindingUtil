@@ -11,7 +11,7 @@ repositories {
   maven { url 'https://jitpack.io' }
 }
 dependencies {
-  implementation 'com.github.matsudamper:ViewBindingUtil:${version}'
+  implementation("com.github.matsudamper:ViewBindingUtil:${version}")
 }
 ```
 
